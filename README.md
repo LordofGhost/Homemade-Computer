@@ -41,6 +41,10 @@
 
 ### Memory layout
 
+$0000 - $3fff RAM
+$6000 - $600f I/O
+$8000 - $ffff ROM
+
 ## Conclusion
 
 - It was a very instructive project in terms of my understanding of computers and electronics in general. 
