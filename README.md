@@ -21,7 +21,7 @@
 
 ### Problems
 
-- Get all the parts you need for your computer without spending a to much money
+- Get all the parts you need for the computer without spending a to much money
 - Poor power supply to some parts
 
 ### Problem fixing 
@@ -32,6 +32,14 @@
 
 - reading and display inputs of a PS2 Keyboard
 - interact with a other computer by RS232
+
+## Information about the computer
+
+### Main components
+
+- The processor is the [6502](https://eater.net/datasheets/w65c02s.pdf), while the [6522](https://eater.net/datasheets/w65c22.pdf) is used for I/O. The [28c256](https://eater.net/datasheets/28c256.pdf) is used as Rom and the [62256](https://eater.net/datasheets/hm62256b.pdf) as Ram.
+
+### Memory layout
 
 ## Conclusion
 
