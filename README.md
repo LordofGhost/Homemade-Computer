@@ -3,7 +3,7 @@
 (This is a replica of the BE65 from Ben Eater)
 
 <figure>
-    <img src=""
+    <img src="./images/computer.jpg"
          alt="AB65">
     <figcaption><b>my homemade computer</b></figcaption>
 </figure>
@@ -22,11 +22,6 @@
 ### Problems
 
 - Get all the parts you need for the computer without spending a to much money
-- Poor power supply to some parts
-
-### Problem fixing 
-
-- Power connection on every breadboard
 
 ### Functions
 
