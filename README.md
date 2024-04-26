@@ -1,10 +1,10 @@
-# Homemade AB65
+# Homemade Computer
 
 (This is a replica of the BE65 from Ben Eater)
 
 <figure>
     <img src="./images/computer.jpg"
-         alt="AB65">
+         alt="Homemade Computer">
     <figcaption><b>my homemade computer</b></figcaption>
 </figure>
 
@@ -37,7 +37,9 @@
 ### Memory layout
 
 $0000 - $3fff RAM
+
 $6000 - $600f I/O
+
 $8000 - $ffff ROM
 
 ## Conclusion
